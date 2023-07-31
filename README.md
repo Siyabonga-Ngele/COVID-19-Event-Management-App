@@ -3,11 +3,11 @@ The COVID-19 Event Management App would be a valuable tool for event organizers 
 
 ## Key contributers
 
-[Marius Dreyer] (https://github.com/MariusDreyer)
-[Sean Meyer] (https://github.com/Sean7771)
-[Mighty Hlungwane] (https://github.com/Sgumbaza)
-[Ruben Hendricks] (https://github.com/SambaRuba)
-[Siyabonga Ngele] (https://github.com/Siyabonga-Ngele)
+* [Marius Dreyer] (https://github.com/MariusDreyer)
+* [Sean Meyer] (https://github.com/Sean7771)
+* [Mighty Hlungwane] (https://github.com/Sgumbaza)
+* [Ruben Hendricks] (https://github.com/SambaRuba)
+* [Siyabonga Ngele] (https://github.com/Siyabonga-Ngele)
 
 ## Problem 
 
